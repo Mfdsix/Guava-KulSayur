@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">KulSayur</string>
+    <string name="vegetable_photo">Vegetable Photo</string>
+    <string name="favorite">Favorite</string>
+    <string name="deskripsi">Deskripsi</string>
+    <string name="informasi_toko">Informasi Toko</string>
+    <string name="store_photo">Store Photo</string>
+    <string name="tambah_keranjang">Tambah Keranjang</string>
+    <string name="beli_produk">Beli Produk</string>
+    <string name="profile">Profile</string>
+    <string name="portofolio_dicoding">Portofolio Dicoding</string>
+    <string name="click_for_detail">Click for Detail</string>
+    <string name="profile_dicoding">Profile Dicoding</string>
+</resources>
